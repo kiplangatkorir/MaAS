@@ -5,7 +5,7 @@ llm:
   api_type: "openai"  # or azure / ollama / groq etc.
   model: "gpt-4o-mini"  #  gpt-3.5-turbo or gpt-4-turbo
   base_url: ""  # or forward url / other llm url
-  api_key: ""
+  api_key: "e098f023457f4038b10d83f5d9411d5d"
 models:
   gpt-4o-mini:
     api_type: "openai"  # or azure / ollama / groq etc.
